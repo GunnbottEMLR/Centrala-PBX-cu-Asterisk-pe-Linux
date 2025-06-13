@@ -1,0 +1,1 @@
+# Centrala-PBX-cu-Asterisk-pe-Linux
